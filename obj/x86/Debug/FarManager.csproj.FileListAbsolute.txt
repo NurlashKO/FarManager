@@ -1,0 +1,15 @@
+C:\Users\nurlan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nurlan\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nurlan\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nurlan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\nurlan\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\FarManager\FarManager\bin\Debug\FarManager.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\FarManager\FarManager\bin\Debug\FarManager.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\FarManager.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\FarManager.pdb
+Y:\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\FarManager.exe
+Y:\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\FarManager.pdb
+Y:\Documents\Visual Studio 2010\Projects\FarManager\FarManager\bin\Debug\FarManager.exe
+Y:\Documents\Visual Studio 2010\Projects\FarManager\FarManager\bin\Debug\FarManager.pdb
+Y:\Documents\Visual Studio 2010\Projects\FarManager\FarManager\obj\x86\Debug\ResolveAssemblyReference.cache
