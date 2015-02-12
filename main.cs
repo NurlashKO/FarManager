@@ -54,7 +54,8 @@ namespace ConsoleApplication1
                         case ConsoleKey.LeftArrow://BACK
                             directory = Actions.moveLeft(directory);
                             break;
-                        case ConsoleKey.F1:
+                        case ConsoleKey.F1: // HELP
+                            Draw.Action("Use ArrowKeys");
                             break;
                         
                         case ConsoleKey.F2:  //CreateDirectory
